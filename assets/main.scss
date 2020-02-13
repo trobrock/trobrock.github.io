@@ -74,3 +74,9 @@ button[type=submit] {
     }
   }
 }
+
+@media (max-width: 820px) {
+  #sticky-social-icons {
+    display: none;
+  }
+}
