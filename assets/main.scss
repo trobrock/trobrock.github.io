@@ -1,9 +1,9 @@
 ---
 ---
-@import url('https://fonts.googleapis.com/css?family=Roboto+Mono|Roboto&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Roboto:400,900&display=swap');
 
 $base-font-family: 'Roboto', helvetica, sans-serif;
-$header-font-family: 'Roboto Mono', monospace;
+$header-font-family: 'Roboto', helvetica, sans-serif;
 
 $brand-color: #3AAAC8;
 
@@ -11,6 +11,11 @@ $brand-color: #3AAAC8;
 
 h1, h2, h3, h4, h5, h6, .site-title {
   font-family: $header-font-family;
+}
+
+.site-title {
+  font-weight: 900;
+  font-size: 40px;
 }
 
 .center {
@@ -43,4 +48,29 @@ button[type=submit] {
   border-radius: 3px;
   background-color: lighten($brand-color, 40%);
   font-size: 1.5em;
+}
+
+#sticky-social-icons {
+  position: fixed;
+  left: -30px;
+  top: 85%;
+  -webkit-transform: translateY(-85%);
+  -ms-transform: translateY(-85%);
+  transform: translateY(-85%);
+  transition: all 1s ease;
+
+  &.shown {
+    left: 0;
+  }
+
+  a {
+    display: block;
+    padding: 3px;
+    opacity: 0.7;
+    transition: all 0.3s ease;
+
+    &:hover {
+      opacity: 1;
+    }
+  }
 }
