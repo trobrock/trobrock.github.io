@@ -25,7 +25,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   I make things related to finance (software, content, everything). I'm also available for consulting
   in any of those things (video creation, software development, etc.)
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://trobrock.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: trobrock
 instagram_username: trobrock
 linkedin_username: trobrock
@@ -50,6 +50,7 @@ disqus:
 # Build settings
 plugins:
   - jekyll-feed
+  - jekyll-sitemap
 
 # Exclude from processing.
 # The following items will not be processed, by default.
