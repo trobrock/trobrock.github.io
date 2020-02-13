@@ -1,0 +1,37 @@
+<div class="social-media-icons">
+  {%- if site.github_username -%}
+  <a href="https://github.com/{{ site.github_username| cgi_escape | escape }}"><i class="fab fa-github"></i></a>
+  {%- endif -%}
+
+  {%- if site.instagram_username -%}
+  <a href="https://instagram.com/{{ site.instagram_username| cgi_escape | escape }}"><i class="fab fa-instagram"></i></a>
+  {%- endif -%}
+
+  {%- if site.linkedin_username -%}
+  <a href="https://www.linkedin.com/in/{{ site.linkedin_username| cgi_escape | escape }}"><i class="fab fa-linkedin-in"></i></a>
+  {%- endif -%}
+
+  {%- if site.twitter_username -%}
+  <a href="https://www.twitter.com/{{ site.twitter_username| cgi_escape | escape }}"><i class="fab fa-twitter"></i></a>
+  {%- endif -%}
+
+  {%- if site.youtube_username -%}
+  <a href="https://youtube.com/{{ site.youtube_username| cgi_escape | escape }}"><i class="fab fa-youtube"></i></a>
+  {%- endif -%}
+
+  {%- if site.rss -%}
+  <a href="{{ 'feed.xml' | relative_url }}"><i class="fas fa-rss"></i></a>
+  {%- endif -%}
+
+  {%- if site.podcast_url -%}
+  <a href="{{ site.podcast_url }}"><i class="fas fa-podcast"></i></a>
+  {%- endif -%}
+
+  {%- if site.darkroom_username -%}
+  <a href="https://{{ site.darkroom_username }}.darkroom.tech"><i class="fas fa-camera"></i></a>
+  {%- endif -%}
+
+  {%- if site.teespring_store_name -%}
+  <a href="https://teespring.com/stores/{{ site.teespring_store_name }}"><i class="fas fa-tshirt"></i></a>
+  {%- endif -%}
+</div>
