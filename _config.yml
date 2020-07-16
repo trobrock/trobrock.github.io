@@ -47,8 +47,6 @@ show_excerpts: true
 disqus:
   shortname: trobrock-1
 
-google_analytics: UA-5103840-7
-
 # Build settings
 plugins:
   - jekyll-feed
