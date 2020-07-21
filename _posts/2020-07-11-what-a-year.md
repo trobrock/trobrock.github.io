@@ -16,28 +16,27 @@ I think I'd describe it as admitting that it's too hard to continuing down your 
 I'd describe it as changing direction away from something you really want. I would
 describe it as failing.
 
-I don't like failing, I like learning, but giving up is not learning. It's throwing
+I don't like failing. I like learning, but giving up is not learning. It's throwing
 your hands up and walking away. How can I learn and move forward from what this year
 has dealt out so far? Let me look at what's gone well so far, and maybe there is some
 insight in there.
 
-First, I've bought a new house, that's always a good thing right? I've incorporated
+First, I bought a new house. That's always a good thing right? I incorporated
 my business with my business partner to set the stage for real estate investing
-(I've even made a few offers). I bought an RV, which is not something I would've
+(I even made a few offers). I bought an RV, which is not something I would've
 ever bought, or even thought I wanted, but it has been the experience of a lifetime.
 
-It's hard for me, especially in the moment, to look at the good in the bad, but when
+It's hard for me, especially in the moment, to look at the good in the bad. But when
 I do I find that there is generally something there. Even as I write this post I'm
-stewing through my head an opportunity to be a partner in a business that has gone
+stewing in my head about an opportunity to be a partner in a business that has gone
 completely sideways of how I thought it'd go. When I look at the surface, all my work
 the last year has been wasted, I'm continually unable to get the position in a business
 I'm looking for, I could go on... But, when I look deeper I have to see the good,
 albeit as I type this I fail to see how it'll change things. Here it goes anyways.
 
-First, the opportunity to work on this project still exists, I've been working on
-getting this opportunity to *work* on this project for years now. If I lean on my
-natural over-trusting self, then what I wanted out of the offer to join the business
-will be there. Lastly, I'd be able to work on something with meaning, which is not
+I've been putting in so much effort to get the opportunity to actually *work* on this project
+for years now. If I lean on my natural over-trusting self, then what I wanted out of the offer to
+join the business will be there. Lastly, I'd be able to work on something with meaning, which is not
 something I've done a lot of lately.
 
 What am I going to do? I have no idea, maybe writing this down helped me figure it
