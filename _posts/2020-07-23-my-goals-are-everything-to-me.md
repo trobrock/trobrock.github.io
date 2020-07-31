@@ -22,23 +22,22 @@ no real background in engineering, to being the CTO of a startup by the time I
 was 30, and now to future goals of controlling over 10 million in real estate assets plus some
 other net worth targets (we'll talk about these another time). When I'm not aiming
 at some insane goal, I'm just demotivated. I've been in this situation once not too
-far in the past and didn't realize it until Kimmy (my wife) pointed it out.
+long ago and didn't realize it until Kimmy (my wife) pointed it out.
 
 So we get to the "life" part of this whole "equation". When I'm talking work / life
 balance, I'm really talking work / family time balance because, like I said, my work
 already is my life. The balance of family time to work is a real tricky one for me.
 My happy place is when I'm being productive towards my goals. This is why I tend
-to struggle with the weekends. I **love** spending time with Kimmy and my two kids.
-By this point you probably already have some awful image of me hating my family.
-This couldn't be further from the truth.
+to struggle with the weekends. By this point you probably already have some awful
+image of me hating my family. This couldn't be further from the truth.
 
 When I think about my role as a parent, I think about what I want to teach my kids
 about the world and about life. I believe there is no greater endeavor than to
-work towards your dreams. We live in a world now where anything is possible. I want
+work towards your dreams. We live in a world where anything is possible. I want
 my kids to look at me and know that I'm working hard, like really hard, to achieve
 my goals. I want to teach them that anything is possible. I want to teach them
 to put in everything they've got to reach their goals. I see too many people in
-the world consigned to the role they are in, hating their job for no real reason
+the world that have consigned themselves to the role they are in, hating their job for no real reason
 other than the idea that work is supposed to be horrible. This is not the life I
 want for my kids.
 
