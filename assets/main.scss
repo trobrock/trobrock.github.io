@@ -28,6 +28,14 @@ h1, h2, h3, h4, h5, h6, .site-title {
   padding-left: 3em;
 }
 
+.clear {
+  &::after {
+    content: "";
+    clear: both;
+    display: table;
+  }
+}
+
 .social-media-icons {
   a {
     color: lighten($text-color, 15%);
