@@ -2,9 +2,9 @@
 layout: post
 title: My goals are everything to me
 date: 2020-07-23
+excerpt_separator: <!--more-->
+cover_image: /img/00100dPORTRAIT_00100_BURST20200704124213908_COVER.jpg
 ---
-
-![](/img/00100dPORTRAIT_00100_BURST20200704124213908_COVER.jpg)
 
 Work life balance... Now there's a hot topic that I have some opinions on. Let's
 talk about this.
@@ -15,6 +15,8 @@ a society that work was this evil thing that we wanted nothing to do with? I **l
 working. It's very common that you'll hear me on a Friday groaning about the fact
 that it's the end of the week, much like you'd hear most groaning on Sunday about
 the end of the weekend.
+
+<!--more-->
 
 I'm an _extremely_ goal oriented person. I have some insanely lofty goals for
 myself, and I always have. From getting a job at a startup out of college with

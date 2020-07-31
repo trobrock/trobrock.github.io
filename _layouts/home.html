@@ -32,6 +32,9 @@ layout: default
           </a>
         </h3>
         {%- if site.show_excerpts -%}
+          {% if post.cover_image %}
+            <img src="{{ post.cover_image }}" alt="" class="cover">
+          {% endif %}
           {{ post.excerpt }}
         {%- endif -%}
       </li>

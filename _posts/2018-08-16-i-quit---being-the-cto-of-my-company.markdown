@@ -3,9 +3,8 @@ layout:	post
 title:	"I quit… (being the CTO of my company)"
 date:	2018-08-16
 excerpt_separator: <!--more-->
+cover_image: /img/1*lf7SmVr9CSRTKQi822xJTQ.jpeg
 ---
-
-![](/img/1*lf7SmVr9CSRTKQi822xJTQ.jpeg)
 
 ### The purpose of this post is two-fold
 
