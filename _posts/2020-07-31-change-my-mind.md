@@ -7,8 +7,8 @@ cover_image: /img/Change-My-Mind.jpg
 ---
 
 I was having a conversation with Kimmy the other day. We were talking about religion, politics, and
-all the other fun stuff you talk about on a month long RV trip. That conversation got me going down,
-what I thought was, an interesting train of thought. I jotted this thought down to explore further,
+all the other fun stuff you talk about on a month long RV trip. That conversation got me going down
+what I thought was an interesting train of thought. I jotted this thought down to explore further,
 and here we are.
 
 For some context, there is a meme that's gone around for a bit now. It's the "Change My Mind" meme
@@ -20,14 +20,14 @@ people that hold some of these opinions in the memes. That can be funny, but it 
 
 You see this whole meme is funny because we watch so many people hold opinions unchanging, even with
 an abundance of information to the contrary. That's funny, but what about when it's you? The thing
-this meme leans on is the fact that our culture is one of closed minds. It's normal, and is many cases,
+this meme leans on is the fact that our culture is one of closed minds. It's normal, and often times
 encouraged to hold hard opinions. I've definitely been guilty of this far too many times on far too
 many things.
 
 But, why is holding a hard opinion a bad thing? Well, it's not necessarily, but holding it without
 also searching for contradicting information or being willing to accept new information is. Imagine
 if society never changed their minds given new information... We'd still believe the world was flat.
-_Yes that's an intentional [joke](https://en.wikipedia.org/wiki/Flat_Earth#Modern_flat-Earthers)._
+_Yes, that's an intentional [joke](https://en.wikipedia.org/wiki/Flat_Earth#Modern_flat-Earthers)._
 
 In all seriousness though, one of the things I believe has helped me grow as a person is the focus
 on trying to search out contradicting information to my opinions. When I have a political opinion, I
