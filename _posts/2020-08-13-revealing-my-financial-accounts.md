@@ -24,6 +24,8 @@ that I call the "Inbox". The idea of this account is that it's my holding accoun
 the funds to various other single-purpose accounts. I'll discuss my process for doing this further
 down, but first let me cover my other accounts.
 
+![Brainstorm of my idea](/img/accounting-brainstorm.jpg)
+
 The rest of the accounts are divided into two categories. First, is the expenses category. I have
 two accounts in this category (both checking accounts), one is for personal expenses and the other
 is for my business expenses. I split these up this way so I can manage our family expenses as
