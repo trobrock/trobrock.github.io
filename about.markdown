@@ -6,15 +6,14 @@ permalink: /about/
 
 I love creating things and finance, so I make things related to finance.
 
-* I've built multiple, million+ dollar software products.
-* I've founded one of those.
+* Founder of [Greenbits](https://greenbits.com)
+* Real Estate Investor
+* Angel Investor
 * I make [YouTube](https://www.youtube.com/user/trobrock) videos about finance.
-* I try to day trade the futures market. :expressionless:
-* And, I'm building more products to help others (and myself) reach financial freedom.
 
 <div class="center">
   <iframe style="max-width: 100%" width="350" height="225" src="https://www.youtube.com/embed/TPs79Uc8ljw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-  <iframe style="max-width: 100%" width="350" height="225" src="https://www.youtube.com/embed/lcpAbO42_8E" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <iframe style="max-width: 100%" width="350" height="225" src="https://www.youtube.com/embed/ZucSGYyd044" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 <div class="center">
