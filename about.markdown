@@ -10,6 +10,7 @@ I love creating things and finance, so I make things related to finance.
 * Real Estate Investor
 * Angel Investor
 * I make [YouTube](https://www.youtube.com/user/trobrock) videos about finance.
+* Podcast about finance and other random nonsense @ [The Financial Illiterates](https://thefinancialilliterates.com/)
 
 <div class="center">
   <iframe style="max-width: 100%" width="350" height="225" src="https://www.youtube.com/embed/TPs79Uc8ljw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
